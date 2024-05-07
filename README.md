@@ -1,3 +1,3 @@
 # sample-demo
 This is my first repository 
-author - Om Jitpure
+author - Om Jitpure ()
